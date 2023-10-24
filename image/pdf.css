@@ -1,0 +1,79 @@
+
+
+
+
+#ce{
+
+    width: auto;
+    height: auto;
+    font-size: 75px;
+    left: 650px;
+    top: 150px;
+    font-weight: bold;  
+    position: absolute;
+}
+
+#re{
+
+    width: auto;
+    height: auto;
+    font-size: 75px;
+    left: 660px;
+    top:350px;
+    font-weight: bold; 
+    position: absolute;
+}
+
+#da{
+
+    width: auto;
+    height: auto;
+    font-size: 75px;
+    left:765px;
+    top:550px; 
+    font-weight: bold; 
+    position: absolute;
+}
+
+a:link{
+
+    text-decoration: none;
+    color: white;
+    
+
+}
+
+a:visited{
+    text-decoration: none;
+    color:  white;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+a:active{
+    text-decoration: none;
+    color: white;
+
+}
+
+#bapdf{
+
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+
+}
+
+#pdlog{
+
+    width: 350px;
+    height: 350px;
+    position:absolute;
+    left: 785px;
+    bottom: 360px;
+    z-index: -1;
+}

@@ -1,0 +1,113 @@
+* {
+
+    margin: 0px;
+
+    padding: 0px;
+
+    margin-top: 0px;
+
+}
+
+
+
+
+
+
+
+#back {
+
+
+
+    z-index: -1;
+
+    position: absolute;
+
+    width: 100%;
+    
+    height: 100%;
+
+
+}
+
+
+
+#sla {
+
+    width: 9%;
+
+    height: 15%;
+
+    position: absolute;
+
+    margin-left: -25px;
+
+    margin-top: -25px;
+
+}
+
+
+
+#inst {
+
+    left: 125px;
+
+    font-size: 25px;
+
+    font-weight: bold;
+
+    position: absolute;
+
+    margin-top: 15px;
+
+
+
+}
+
+#alex {
+
+
+
+    width: 38%;
+
+    height: 70%;
+
+    margin-left: 600px;
+
+    position: absolute;
+
+    margin-top: 150px;
+
+    size: 100px;
+
+
+
+
+
+}
+
+
+
+#pdf {
+
+    width: 5%;
+
+    height: 5%;  
+
+    margin-left: 1800px;
+
+    margin-top: 10px;
+}
+
+#pdfe{
+
+    margin-left: 1610px;
+
+    margin-top: -95px;
+
+    font-size: 25px;
+
+    font-weight: bold;
+}
+
+
+
